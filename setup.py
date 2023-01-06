@@ -30,7 +30,7 @@ def read_requirements(path):
 
 
 setup(
-    name="empty_python_package",
+    name="mitmproxy_wireguard",
     version=read("empty_python_package", "VERSION"),
     description="Awesome empty_python_package created by epicfaace",
     url="https://github.com/epicfaace/empty-python-package/",
